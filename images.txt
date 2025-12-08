@@ -4,3 +4,4 @@ redis:latest
 postgres:18
 busybox:latest
 rockylinux:9
+busybox:latest
