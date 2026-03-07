@@ -1,1 +1,1 @@
-nginx-waf：v1
+jumpserver/core:v4.10.16-ce
